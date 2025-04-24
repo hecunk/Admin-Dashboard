@@ -234,7 +234,7 @@ a {
 .trending {
     grid-area: 4 / 2 / 5 / 3;
     background-color: white;
-    width: 370px;
+    width: auto;
     box-shadow: 5px 5px 10px rgb(187, 187, 187);
     border-radius: 15px;
     display: grid;
